@@ -1,0 +1,3 @@
+14:31:38.471 [main] INFO  c.y.s.SpringbootPostgresqlApplication:50- Starting SpringbootPostgresqlApplication on DESKTOP-PNAK0EO with PID 11040 (started by yunlingfly in D:\IntelliJ IDEA 2018.3.1\workspace\springboot-postgresql)
+14:31:38.474 [main] INFO  c.y.s.SpringbootPostgresqlApplication:675- No active profile set, falling back to default profiles: default
+14:31:42.583 [main] INFO  c.y.s.SpringbootPostgresqlApplication:59- Started SpringbootPostgresqlApplication in 4.486 seconds (JVM running for 5.317)
